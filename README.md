@@ -1,1 +1,1 @@
-<h1 align>Python Intermediate Projects</h1>
+<h1 align="center">Python Intermediate Projects</h1>
