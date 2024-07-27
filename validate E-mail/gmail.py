@@ -28,6 +28,10 @@ if len(email) >= 7:
 
                 if k==1 or j==1 or d==1:
                     print(" wrong email ")
+
+                else:
+                    print("Correct !!")
+
             else:
                 print(" wrong Email 4")
 
