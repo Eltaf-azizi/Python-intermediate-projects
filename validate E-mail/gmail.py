@@ -30,7 +30,7 @@ if len(email) >= 7:
                     print(" wrong email ")
 
                 else:
-                    print("Correct !!")
+                    print("Correct")
 
             else:
                 print(" wrong Email 4")
