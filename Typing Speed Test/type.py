@@ -24,24 +24,38 @@ def speed_time(time_s, time_e, userinput):
 
 
 
-test = ["A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea.",
-        "My name is Altaf Hussain" , "Welcome to our website"]
+if __name__ == '__main__':
+
+    while True: 
+
+        ck = input(" ready to test : yes / no : ")
+
+        if ck == "yes":
+
+            test = ["A paragraph is a self-contained unit of discourse in writing dealing with a particular point or idea.",
+                    "My name is Altaf Hussain" , "Welcome to our website"]
 
 
-test1 = r.choice(test)
-print("     ***** typing speed *****")
+            test1 = r.choice(test)
+            print("     ***** typing speed *****")
 
 
-print(test1)
-print()
-print()
+            print(test1)
+            print()
+            print()
 
 
-time_1 = time()
-testinput = input("Enter: ")
-time_2 = time()
+            time_1 = time()
+            testinput = input("Enter: ")
+            time_2 = time()
 
 
-print('Speed: ', speed_time(time_1, time_2, testinput), "w/sec")
-print("Error: ", mistake(test1, testinput))
+            print('Speed: ', speed_time(time_1, time_2, testinput), "w/sec")
+            print("Error: ", mistake(test1, testinput))
 
+        elif ck == 'no':
+            print(" thank you ")
+            break
+
+        else:
+            print(" wrong input ")
