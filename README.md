@@ -4,5 +4,4 @@ Welcome to the Intermediate Python Projects repository! This collection is desig
 
 
 # Contributing
-
 Contributions are **welcome!** If you have any ideas for new projects or improvements to existing ones, please feel free to fork the repository and submit a pull request.
