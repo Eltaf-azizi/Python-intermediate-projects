@@ -48,4 +48,4 @@ This project measures how fast you can type a given text. It calculates your wor
 A simple script that checks if an email address is valid using regular expressions. It ensures that the email follows standard formatting rules.
 
 ## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
+Contributions are **welcome!** If you have any suggestions, bug reports, or want to add new features, feel free to open an issue or submit a pull request.
