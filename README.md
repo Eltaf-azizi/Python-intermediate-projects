@@ -16,10 +16,10 @@ This repository contains the following Python projects:
 ## Getting Started
 To get started with these projects, clone this repository to your local machine:
 
-     git clone 
+     git clone https://github.com/Eltaf-azizi/Python-intermediate-projects.git
 Navigate to the project directory to explore each project.
 
-Installation
+## Installation
 For most projects, you'll need Python installed on your machine. You can install the required packages using the requirements.txt file if available:
 
 bash
