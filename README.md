@@ -48,7 +48,7 @@ This project measures how fast you can type a given text. It calculates your wor
 A simple script that checks if an email address is valid using regular expressions. It ensures that the email follows standard formatting rules.
 
 
-Screen Recorder
+### Screen Recorder
 A Python script that captures the screen frame by frame and compiles the frames into a video file. It allows you to record the entire screen or a specific region and saves the video in formats like MP4 using video encoding techniques.
 
 ## Contributing
