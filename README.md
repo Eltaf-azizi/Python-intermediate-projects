@@ -12,7 +12,7 @@ This repository contains the following Python projects:
  - **Shutdown and Restart:** Scripts to automate shutdown and restart operations on your computer.
  - **Typing Speed Test:** A program to test and calculate your typing speed by measuring the time taken to type a provided text.
  - **Validate E-mail:** A script that checks the validity of an email address format using regular expressions.
- -    
+ -    Screen Recorder: Captures and records your screen frame by frame, converting it into a video file.
 ## Getting Started
 To get started with these projects, clone this repository to your local machine:
 
